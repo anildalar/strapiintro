@@ -1,0 +1,45 @@
+CMS = Content Management System
+
+Current CMS 
+	1. Wordpress (Coding)
+	2. Drupal
+	3. Joomla
+
+Headless/TensionFree CMS  (Coding Skill Not Required)
+
+Strapi 
+	Support Allmost every Database
+	1. Mysql
+	2. MongoDB
+	3. Sqlite (Default)
+	4. Postgres
+
+
+RealAPI
+	WebServices/API
+
+FakeAPI
+	https://fakerestapi.azurewebsites.net/index.html
+
+SPA (Single Page Application)
+
+
+Strapi support SwaggerDocs UI
+
+ReactJS
+Angular
+VueJS 
+
+Install
+
+	NodeJs
+
+npx create-strapi-app@latest my-project 
+
+npm run develop
+
+https://docs.strapi.io/developer-docs/latest/plugins/documentation.html
+
+http://localhost:1337/admin
+
+
